@@ -1,0 +1,24 @@
+# Output and binary files
+*.hex
+*.OBJ
+*.LST
+*.MAP
+*.SBR
+*.plg
+
+# Keil uVision files
+*.uvopt
+*.uvproj
+*.uvgui.*
+
+# Backups and temporary files
+*.bak
+*.lnp
+*.workspace
+Project Backups
+
+# Another unnecessary files
+*/bcd
+*/lcd
+*/keyboard
+*/motor
