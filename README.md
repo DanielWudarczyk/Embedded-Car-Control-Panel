@@ -1,5 +1,5 @@
 # Embedded Systems Project  
-## CAR CONTROL PANEL
+# CAR CONTROL PANEL
 
 Project Description:  
 The project simulates a car control panel that allows the user to control the radio, air conditioning, and traction control, as well as display the configured parameters.  
