@@ -37,3 +37,9 @@ The project was developed in the Keil environment, is based on the AT89C52 micro
 ### LCD Screen:
 - The screen has 2 display modes – one for displaying air conditioning parameters and one for displaying traction control mode.
 - **Switch display mode** – press and hold the button near the screen for one second.
+
+### Demo 👇
+
+<a href="Demo.mp4">▶️ Obejrzyj demo</a>
+
+
