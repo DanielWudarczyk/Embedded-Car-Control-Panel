@@ -1,7 +1,6 @@
 # Embedded Systems Project  
 # CAR CONTROL PANEL
-
-Project Description:  
+ 
 The project simulates a car control panel that allows the user to control the radio, air conditioning, and traction control, as well as display the configured parameters.  
 The project was developed in the Keil environment, is based on the AT89C52 microcontroller, and uses a schematic designed in the Proteus software.
 
@@ -42,5 +41,7 @@ The project was developed in the Keil environment, is based on the AT89C52 micro
 
 ![Schematic](schematic_image.png)
 
+### Demo 👇
+🎥 [Watch demo](demo.mp4)
 
 
